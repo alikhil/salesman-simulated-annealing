@@ -29,3 +29,7 @@ As we see, slower the cooling rate better it converges.
 In figure below we can see how path is changing for cooling rate = 0.995.
 
 ![anneal_animation](https://user-images.githubusercontent.com/7482065/48839813-bceb8480-ed9d-11e8-9e8c-b4f800eef46d.gif)
+
+## Conclusion
+
+In this assignment I experienced practical application of Simulated Annealing for solving Traveling Salesman problem. By trying different cooling rates I understand that by slowing cooling we get more precise results by the cost of time.
