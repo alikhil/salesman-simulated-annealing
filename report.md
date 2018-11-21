@@ -22,7 +22,7 @@ I have run SA with three different values of cooling rate:
 
 The speed of convergence and value to which they converge we see in figure below:
 
-![img2](https://user-images.githubusercontent.com/7482065/48836697-88bf9600-ed94-11e8-818c-40783c11c637.png)
+<img src="https://user-images.githubusercontent.com/7482065/48836697-88bf9600-ed94-11e8-818c-40783c11c637.png" alt="drawing" height="400"/>
 
 As we see, slower the cooling rate better it converges.
 

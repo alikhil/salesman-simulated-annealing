@@ -17,7 +17,8 @@
 
 See `images` directory.
 
-![img2](https://user-images.githubusercontent.com/7482065/48836697-88bf9600-ed94-11e8-818c-40783c11c637.png)
+
+<img src="https://user-images.githubusercontent.com/7482065/48836697-88bf9600-ed94-11e8-818c-40783c11c637.png" alt="drawing" height="400"/>
 
 
 ![anneal_animation](https://user-images.githubusercontent.com/7482065/48839813-bceb8480-ed9d-11e8-9e8c-b4f800eef46d.gif)
